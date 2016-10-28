@@ -1,4 +1,4 @@
-package com.pawel_rutkowski.mybooks.model;
+package com.pawel_rutkowski.mybooks.data;
 
 
 import com.google.gson.annotations.SerializedName;
